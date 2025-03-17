@@ -1,0 +1,19 @@
+__pychache__
+*.pyc
+.pytest_cache
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+.venv/
+venv/
+Transformer_Translation/
+Transformer_Translation\
+Transformer_Translation/**
+.DS_Store
+
+*.pth
